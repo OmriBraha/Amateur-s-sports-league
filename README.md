@@ -48,11 +48,11 @@ When adding points to the Points table, the program will check if the player is 
 **Queries:**
 | Query number  | Values to print      | Query         |
 | :---          | :---                 | :---          |
-| - Q1D -       | pname                | Players that have a rating > 3 and plays in group number 2     |
-| - Q2D -       | nickname, cname      | Coaches that coach a group with a blue uniform                 |
-| - Q3D -       | nickname             | For every game, the nickname of the winning team                 |
-| - Q4D -       | cname                | For every new coach(status=0), the amount of players in his team                 |
-| - Q5D -       | pname, rating        | A player who played in at least 3 games and never got a score (points) < 10 in a game                                            |
-| - Q6D -       | pname                | For every team, the mvp player (mvp player = player who got the highest total amount                                           of all the team's games)                 |
-| - Q7D -       | tid, nickname, color | From teams who has never won a game, the team that accumulated the highest sum of                                              points in all of it games                 |
+| - QD1 -       | pname                | Players that have a rating > 3 and plays in group number 2     |
+| - QD2 -       | nickname, cname      | Coaches that coach a group with a blue uniform                 |
+| - QD3 -       | nickname             | For every game, the nickname of the winning team                 |
+| - QD4 -       | cname                | For every new coach(status=0), the amount of players in his team                 |
+| - QD5 -       | pname, rating        | A player who played in at least 3 games and never got a score (points) < 10 in a game                                            |
+| - QD6 -       | pname                | For every team, the mvp player (mvp player = player who got the highest total amount                                           of all the team's games)                 |
+| - QD7 -       | tid, nickname, color | From teams who has never won a game, the team that accumulated the highest sum of                                              points in all of it games                 |
 
