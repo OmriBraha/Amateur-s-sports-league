@@ -1,5 +1,3 @@
----------------------------------------------------------------------
-
 --- Triger Function Q2 ----
 create or replace function trigf1() returns trigger as $$
 declare
