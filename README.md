@@ -56,6 +56,7 @@ When adding points to the Points table, the program will check if the player is 
 | - QD7 -       | tid, nickname, color | From teams who has never won a game, the team that accumulated the highest sum of                                              points in all of it games                 |
 
 ---
+#### Postgresql 10 // PgAdmin4 </br>
 ###### As part of my Computer Science Bsc degree // Database course </br>
 ##### **Grade:** A+
 
