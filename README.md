@@ -1,6 +1,5 @@
 # Amateur-s-sports-liege
-Amateur's sports liege database
-</br></br>
+### Amateur's sports liege database
 :football: | :soccer: | :basketball: | :tennis: | :bowling: | :8ball: | :trophy:
 </br>
 </br>
@@ -55,4 +54,8 @@ When adding points to the Points table, the program will check if the player is 
 | - QD5 -       | pname, rating        | A player who played in at least 3 games and never got a score (points) < 10 in a game                                            |
 | - QD6 -       | pname                | For every team, the mvp player (mvp player = player who got the highest total amount                                           of all the team's games)                 |
 | - QD7 -       | tid, nickname, color | From teams who has never won a game, the team that accumulated the highest sum of                                              points in all of it games                 |
+
+---
+###### As part of my Computer Science Bsc degree // Database course </br>
+##### **Grade:** A+
 
