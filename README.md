@@ -57,6 +57,5 @@ When adding points to the Points table, the program will check if the player is 
 
 ---
 #### Postgresql 10 // PgAdmin4 </br>
-###### As part of my Computer Science Bsc degree // Database course </br>
-##### **Grade:** A+
+
 
