@@ -1,4 +1,4 @@
-# Amaturs-sports-liege
+# Amateur's-sports-liege
 ### Amateur's sports liege database
 :football: | :soccer: | :basketball: | :tennis: | :bowling: | :8ball: | :trophy:
 </br>
